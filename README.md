@@ -57,8 +57,7 @@ Feedback and contributions are highly appreciated! Feel free to fork this reposi
 
 For any inquiries or issues, please reach out:
 
-- **Name:** Your Name
-- **Email:** [your.email@example.com](mailto:faroukumar99@gmail.com)
+- **Email:** [My Mail](mailto:faroukumar99@gmail.com)
 - **GitHub:** [Your GitHub Profile](https://github.com/um9r)
 
 ## License
